@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:<br>
 			implementation 'com.github.asnhkl1:XUploader:1.0.0'
 		}
 	```
-## Step 3.
+## Step 3.XML
 	```
 	   <com.mrlee.library.XUploader
 		android:id="@+id/uploader"
@@ -33,7 +33,7 @@ Add it in your root build.gradle at the end of repositories:<br>
         说明： <attr name="maxSelectNum" format="integer" /><!--最大选择数量-->
               <attr name="canEdit" format="boolean" /><!--是否可以编辑-->
   
-## Step 4.拿数据
+## Step 4.Get Data
 	```
 	List<ResultData> imageData = uploader.getImageData();
 	private String url = "";//真实URL
