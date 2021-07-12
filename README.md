@@ -1,4 +1,4 @@
-# Uploader
+# Android版本的Uploader组件
 类似前端框架antd的uploader
 # 集成方式：
 ## Step 1. Add the JitPack repository to your build file<br>
