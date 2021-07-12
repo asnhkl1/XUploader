@@ -31,7 +31,7 @@ Add it in your root build.gradle at the end of repositories:<br>
 	```
         
         说明： <attr name="maxSelectNum" format="integer" /><!--最大选择数量-->
-              <attr name="canEdit" format="boolean" /><!--是否可以编辑-->
+              <attr name="canEdit" format="boolean" /><!--是否展示删除按钮-->
   
 ## Step 4.Get Data
 	```
