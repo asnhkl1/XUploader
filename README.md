@@ -2,7 +2,8 @@
 Android类似前端框架antd的uploader
 # 集成方式：
 ## Step 1. Add the JitPack repository to your build file<br>
-Add it in your root build.gradle at the end of repositories:<br>
+Add it in your root build.gradle at the end of repositories:
+
 	```
 	allprojects {
 		repositories {
@@ -11,6 +12,7 @@ Add it in your root build.gradle at the end of repositories:<br>
 		}
 	}
 	```
+	
 ## Step 2. Add the dependency
 	```
 	  dependencies {
